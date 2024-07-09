@@ -1,4 +1,13 @@
-## Hi there 👋
+# Welcome the Axiomatic-AI organizational repository!
+
+## Who we are
+Axiomatic AI.. to be written
+
+## Resources
+- Knowledge Graph: https://github.com/Axiomatic-AI/L1.FPKG
+- Tymek's Paper Parser: https://github.com/Axiomatic-AI/L1.APDT/tree/tymek_parser
+
+
 
 <!--
 
