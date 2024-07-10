@@ -4,6 +4,7 @@
 Axiomatic AI.. to be written
 
 ## Resources / links to Repo
+- 🤖Digital Twins: https://github.com/Axiomatic-AI/DT_sprint
 - 🗺️World Model: https://github.com/Axiomatic-AI/L1.FPKG
 - 📰Tymek's Paper Parser: https://github.com/Axiomatic-AI/L1.APDT/tree/tymek_parser
 
