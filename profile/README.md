@@ -7,6 +7,7 @@ Axiomatic AI.. to be written
 - 🤖Digital Twins: https://github.com/Axiomatic-AI/DT_sprint
 - 🗺️World Model: https://github.com/Axiomatic-AI/L1.FPKG
 - 📰Assisted Paper Digital Twin (APDT) - Bernardo & Borja's book parser and Tymek's Latex parser: https://github.com/Axiomatic-AI/L1.APDT
+- 📰Neo4j connection and instances: [http://https://github.com/Axiomatic-AI/examples/wiki/Neo4J](https://github.com/Axiomatic-AI/examples/wiki/Neo4J)
 
 
 
